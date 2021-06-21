@@ -50,4 +50,5 @@ public class ProductInMemoryRepository implements ProductRepository{
         Product product = products.get(id);
         product.setCost(newCost);
     }
+
 }
