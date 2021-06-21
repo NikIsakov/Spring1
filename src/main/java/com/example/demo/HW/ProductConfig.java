@@ -27,4 +27,5 @@ public class ProductConfig {
         Product product = new Product(1, "1",100);
         return product;
     }
+
 }
